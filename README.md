@@ -3,7 +3,7 @@ An input lag test for ZX Spectrums, real machine or emulated
 
 [Try it online on QAOP emulator. *](http://torinak.com/qaop#l=https://dcrespo3d.github.io/ZX-Input-Lag-Test/DAPR_Input_Lag_Test.tap)
 
-[![ZX-Input-Lag-Test](https://dcrespo3d.github.io/ZX-Input-Lag-Test/screenshot.png)](https://dcrespo3d.github.io/ZX-Input-Lag-Test/DAPR_Input_Lag_Test.tap)
+[![ZX-Input-Lag-Test](https://dcrespo3d.github.io/ZX-Input-Lag-Test/screenshot.png)](http://torinak.com/qaop#l=https://dcrespo3d.github.io/ZX-Input-Lag-Test/DAPR_Input_Lag_Test.tap)
 
 This test is intended to measure input lag
 on a ZX Spectrum machine, real or emulated
