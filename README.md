@@ -22,6 +22,6 @@ For an FPGA or an emulator, your mileage may vary.
 
 You may build the test from assembler source (.asm) or use the tape image (.tap) or snapshots (.z80, .sna).
 
-This test will be featured in an oncoming video in my [youtube channel, DavidPrograma](https://www.youtube.com/c/DavidPrograma).
+This test has been used in an [FPGA vs EMU comparative video](https://youtu.be/fSv9SKehcYQ) in my youtube channel, [DavidPrograma](https://www.youtube.com/c/DavidPrograma).
 
 *Note: tested on Firefox, Chrome and Edge. Visuals works on all three browsers, but audio only works in Firefox and Edge, no sound on Chrome. This is due to Chrome's [autoplay policy](https://developer.chrome.com/blog/autoplay/#webaudio) preventing [QAOP emulator](http://torinak.com/qaop/info) from starting its Audio Context without an explicit user intervention (ex: pressing a button).
